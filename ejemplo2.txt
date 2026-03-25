@@ -1,0 +1,6 @@
+879918 Bruce Wayne bWayne@fi.uba.ar 10
+482718 Clark Kent ckent@fi.uba.ar 6
+184820 Barry Allen ballen@fi.uba.ar 9
+389892 Diana Prince dprince@fi.uba.ar 2
+992831 Victor Stone vstone@fi.uba.ar 8
+774839 Hal Jordan hjordar@fi.uba.ar 1
